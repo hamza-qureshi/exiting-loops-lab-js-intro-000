@@ -1,17 +1,4 @@
-function breakOut (array, changeValue, stopValue){
-<<<<<<< HEAD
-  for( var i=0; i<array.length; i++){
-=======
-  for( i=0; i<array.length; i++){
->>>>>>> 7477b1f3cbc4b415089d54103e395db897207925
-    if(array[i] === stopValue){
-      break
-    }
-    array[i] = changeValue
-  }
-  return array
-}
-
+function
 function keepGoing (array, changeValue, skipValue){
 <<<<<<< HEAD
   for( var i=0; i<array.length; i++){
